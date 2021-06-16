@@ -1,0 +1,25 @@
+.meninas{
+    display: flex;
+    justify-content: center;
+    margin: 10%;
+    border-radius: 20px;
+}
+.brenda{
+    padding: 50px;
+    background-color: yellow;
+    color: blueviolet;
+    border: 20px solid rgb(119, 225, 119);
+    border-radius: 200px;
+}
+.cintia{
+    padding: 50px;
+    background-color: yellow;
+    color: violet;
+    border: 20px solid tomato;
+    border-radius: 200px;
+}
+
+.lulu{
+    display: flex;
+    justify-content: space-evenly;
+}
